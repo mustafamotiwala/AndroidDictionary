@@ -2,5 +2,5 @@
 <resources>
     <string name="app_name">BSD Sample Dictionary</string>
     <string name="vid">jpdvkuzba0915eso6wfl1iidimd42wglmuh7ogizhr</string>
-    <string name="dictionary_url"></string>
+    <string name="dictionary_url">http://api-pub.dictionary.com/v001</string>
 </resources>
